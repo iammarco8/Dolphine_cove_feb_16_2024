@@ -1,0 +1,19 @@
+-they keep you from selecting sundays in a the date choice
+
+groups:
+	 impliment any section of the dolphin cove site that interacts with the database
+	choose on of the four locations impliment any one of the locations
+	your system should have something similar to this 
+	just save the information into a data base
+	activity, rates, 
+
+	assign someone for interface desgin
+	team for database 
+	and a linked backend
+	activity/available schedule (look at the schedule section from dolphine cove) needs to be read from the data base 
+
+	images must show lightbox
+	(look into "overlaid div")
+	layout and text should be the same
+	
+	within the make 
